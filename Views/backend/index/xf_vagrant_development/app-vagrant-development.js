@@ -10,4 +10,6 @@
 
 //{include file="backend/index/xf_vagrant_development/view/vagrant-development.js"}
 
+//{include file="backend/index/xf_vagrant_development/controller/vagrant-theme-cache-warm-up.js"}
+
 //{/block}
